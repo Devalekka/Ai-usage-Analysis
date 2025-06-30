@@ -5,7 +5,7 @@
 
 ## 🎥 Project Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://drive.google.com/file/d/12BhBPVqVaT1fbKht1OYjSnVaNxT8SmYM/view?usp=sharing)
 
 > *Click above to watch the working dashboard in action!*  
 > This video shows interactive visuals, slicers, and full-screen views of the Power BI dashboard.
