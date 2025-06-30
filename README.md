@@ -21,7 +21,7 @@ This dashboard dives deep into:
 - Willingness to pay 💸
 - Stream-wise patterns 📚
 
-It’s not just data — it’s a whole **aesthetic + insight experience** 😎
+It’s not just data — it’s a whole **insight experience** 😎
 
 ---
 
@@ -44,7 +44,6 @@ It’s not just data — it’s a whole **aesthetic + insight experience** 😎
 
 | Feature | Description |
 |--------|-------------|
-| 🎨 Theme | Pastel lavender aesthetic for visual clarity |
 | 📍 Filters | State, Stream, Tool slicers for interactivity |
 | 📈 Visuals | Bar charts, 100% stacked bars, line charts |
 | 💎 KPI Cards | Top tool, total students, avg daily hours |
